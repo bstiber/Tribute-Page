@@ -1,4 +1,4 @@
 # Tribute-Page
-This is a basic html / CSS tribute page of Nelson Mandela
+This is a basic html / CSS tribute page of Nelson Mandela. 
 preview of my page
-![alt text](SpashPage.png "Backgorund image")
+![alt text](screenshot_tribute_page.png "Backgorund image")
